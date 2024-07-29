@@ -3,6 +3,6 @@ Card design assignment
 
 ## Project Link
 
-[LİVE]()
+[LİVE](https://turkcell-card-dev-zlh.vercel.app/)
 
 ## How does my project look
